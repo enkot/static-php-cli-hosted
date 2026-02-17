@@ -51,7 +51,6 @@ jobs:
           - brotli
           - libargon2
           - libiconv
-          - libavif
           - libpng
           - icu
           - libcares
